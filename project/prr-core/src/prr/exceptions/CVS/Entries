@@ -1,0 +1,26 @@
+/ClientExistsException.java/1.1/Sun Oct 30 12:46:46 2022//
+/ClientNotFoundException.java/1.1/Sun Oct 30 12:46:46 2022//
+/ImportFileException.java/1.2/Sun Oct 30 12:46:46 2022//
+/MissingFileAssociationException.java/1.1/Sun Oct 30 12:46:46 2022//
+/NetworkException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalExistsException.java/1.1/Sun Oct 30 12:46:46 2022//
+/UnavailableFileException.java/1.2/Sun Oct 30 12:46:46 2022//
+/UnknownDataException.java/1.1/Sun Oct 30 12:46:46 2022//
+/UnrecognizedEntryException.java/1.2/Sun Oct 30 12:46:46 2022//
+/WrongTerminalKeyException.java/1.1/Sun Oct 30 12:46:46 2022//
+/DestinationIsOffException.java/1.1/Sun Oct 30 12:46:46 2022//
+/NotificationsAlreadyDisabledException.java/1.1/Sun Oct 30 12:46:46 2022//
+/NotificationsAlreadyEnabledException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalAlreadyFriendException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalAlreadyIdleException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalAlreadyOffException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalAlreadySilentException.java/1.1/Sun Oct 30 12:46:46 2022//
+/TerminalNotFoundException.java/1.2/Sun Oct 30 12:46:46 2022//
+/TerminalNotFriendException.java/1.1/Sun Oct 30 12:46:46 2022//
+/DestinationIsBusyException.java/1.1/Mon Oct 31 12:19:32 2022//
+/DestinationIsSilentException.java/1.1/Mon Oct 31 12:17:22 2022//
+/NoOngoingCommunicationException.java/1.1/Mon Oct 31 12:04:49 2022//
+/UnsupportedAtDestinationException.java/1.1/Mon Oct 31 12:24:12 2022//
+/UnsupportedAtOriginException.java/1.1/Mon Oct 31 12:24:26 2022//
+/InvalidCommunicationException.java/1.1/Wed Nov  2 19:20:31 2022//
+D
